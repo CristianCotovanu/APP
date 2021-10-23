@@ -1,0 +1,5 @@
+**/Course
+
+# Other binary files
+*.o
+*.vscode
